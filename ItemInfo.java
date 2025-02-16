@@ -1,10 +1,4 @@
-/**
- * Wilson Lin
- * 115091711
- * wilson.lin.2@stonybrook.edu
- * Hw 2
- * CSE214.R04 Summer 2024
- */
+
 /**
  * The <code>ItemInfo</code> class is used for the creation of a item object.
  * It represents the items that are being stored in the item list.
